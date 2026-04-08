@@ -1,4 +1,4 @@
-# 🛒 Spring MVC - Gestion des Produits
+# Spring MVC - Gestion des Produits
 
 Application Web JEE basée sur Spring Boot pour gérer des produits.
 
