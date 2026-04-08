@@ -2,7 +2,7 @@
 
 Application Web JEE basée sur Spring Boot pour gérer des produits.
 
-## Technologies utilisées
+## Technologies   utilisées
 - Spring Boot 3.x
 - Spring Data JPA / Hibernate
 - Thymeleaf
