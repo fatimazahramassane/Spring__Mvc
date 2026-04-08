@@ -19,7 +19,7 @@ Application Web JEE basée sur Spring Boot pour gérer des produits.
 - Authentification avec Spring Security...
  
 ## Question 9 la deuxieme video 
-- dans le dossier  Q9---hospital-app
+- dans le dossier  Q9---hospital-app OR ici https://github.com/fatimazahramassane/hospital
 
 ## Lancer le projet
 ```bash
